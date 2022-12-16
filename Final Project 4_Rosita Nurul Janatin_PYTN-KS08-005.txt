@@ -1,0 +1,9 @@
+Nama Anggota Kelompok
+1. Haikal Efendi - PYTN-KS08-001
+2. Ni Made Kirei Kharisma Handayani - PYTN-KS08-002
+3. Rosita Nurul Janatin - PYTN-KS08-005
+
+Link github 
+https://github.com/RositaNJ/Final_Project_4-Clustering
+
+Link Deployment 
